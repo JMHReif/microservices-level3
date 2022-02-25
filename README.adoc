@@ -43,9 +43,9 @@ To reproduce this intro example, please follow the steps.
 3. Open a browser and go to `localhost:8080/db/books` OR open a command line window and execute `curl localhost:8080/db/books`.
 4. See the results of tons of books appear :)
 
-//== Content
+== Content
 
-//* Blog post: https://jmhreif.com/blog/microservices-level3/[Microservices Level 3^]
+* Blog post: https://jmhreif.com/blog/microservices-level3/[Microservices Level 3^]
 
 == Previous steps
 
