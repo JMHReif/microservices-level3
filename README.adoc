@@ -46,7 +46,7 @@ To reproduce this intro example, please follow the steps.
 
 == Content
 
-* Blog post: https://jmhreif.com/blog/microservices-level3/[Microservices Level 3^]
+* Blog post: https://jmhreif.com/blog/2022/microservices-level3/[Microservices Level 3^]
 
 == Previous steps
 
